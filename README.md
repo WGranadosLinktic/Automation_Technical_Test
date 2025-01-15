@@ -10,6 +10,16 @@ Para clonar este repositorio, sigue los siguientes pasos:
 
    git clone https://github.com/WGranadosLinktic/Automation_Technical_Test.git
 
+# PYTHON
+Para ejecutar el proyecto, sigue los siguientes pasos:
+
+1. **Modificar el archivo userRegister.xlsx para crear un nuevo usuario**
+   **Desde CLI, en la ruta del proyecto, ejecutar los siguientes comandos:** 
+   **"behave features/test.feature:9": ejecuta el primer escenario**
+   **"behave features/test.feature:20": ejecuta el segundo escenario**
+   **"behave features/test.feature:27": ejecuta el tercer escenario**
+
+# JAVA
 Para ejecutar el proyecto, sigue los siguientes pasos:
 
 1. **Importa desde un IDE (Eclipse, ItelliJ)**.
